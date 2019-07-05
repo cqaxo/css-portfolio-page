@@ -48,6 +48,12 @@ p {
   line-height: 2;
 }
 
+.profile-picture {
+  width: 160px;
+  border-radius: 100%;
+  margin-bottom: 10px;
+}
+
 .skills {
   margin-top: 100px;
   margin-bottom: 200px;
@@ -94,11 +100,6 @@ hr {
   position: absolute;
   left: 280px;
   bottom: 300px;
-}
-
-.profile-picture {
-  width: 160px;
-  border-radius: 100%;
 }
 
 .skill-row {
