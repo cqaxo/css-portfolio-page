@@ -44,7 +44,7 @@ p {
 
 .profile-info {
   width: 35%;
-  margin: 50px auto 0 auto;
+  margin: 60px auto 0 auto;
   line-height: 2;
 }
 
@@ -153,7 +153,7 @@ hr {
 
 .copyright {
   color: #ececec;
-  margin: 50px 0;
+  margin: 60px 0;
   font-family: 'Merriweather', serif;
   font-size: 1em;
 }
