@@ -1,0 +1,159 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 5em;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #9fd3c7;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #9fd3c7;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #385170;
+}
+
+a {
+  color: #385170;
+}
+
+p {
+  color: #142d4c;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 100px;
+  background-color: #ececec;
+}
+
+.profile {
+  margin-bottom: 100px;
+}
+
+.profile-info {
+  width: 35%;
+  margin: auto;
+  line-height: 2;
+}
+
+.skills {
+  margin-top: 100px;
+  margin-bottom: 200px;
+}
+
+.contact-me {
+  margin-top: 120px;
+}
+
+.contact-me-info {
+  width: 45%;
+  margin: auto;
+  line-height: 2;
+  margin-bottom: 4em;
+}
+
+hr {
+  width: 5%;
+  border-style: none;
+  border-top: dotted 8px;
+  color: #ececec;
+  margin: auto;
+}
+
+.middle-container {
+  color: #142d4c;
+  margin-bottom: 100px;
+}
+
+.bottom-container {
+  position: relative;
+  margin-top: 100px;
+  padding: 50px 0 20px 0;
+  background-color: #385170;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 280px;
+  bottom: 300px;
+}
+
+.profile-picture {
+  width: 160px;
+  border-radius: 100%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 160px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.computer-img {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.css-img {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me-header {
+  margin: 50px auto;
+}
+
+.btn {
+  background-color: #9fd3c7;
+  background-image: linear-gradient(to bottom, #9fd3c7, #385170);
+  border-radius: 8px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #9fd3c7;
+}
+
+.footer-link {
+  color: #9fd3c7;
+  text-decoration: none;
+  font-family: 'Montserrat', sans-serif;
+  padding: 0 15px;
+  font-size: 1.3em;
+}
+
+.footer-link:hover {
+  color: #ececec;
+}
+
+.copyright {
+  color: #ececec;
+  margin: 50px 0;
+  font-family: 'Merriweather', serif;
+  font-size: 1em;
+}
